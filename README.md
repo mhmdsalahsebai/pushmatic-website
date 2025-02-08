@@ -1,6 +1,6 @@
 # Pushmatic Demo
 
-This is a demo project showcasing how to use [Pushmatic](https://github.com/your-username/pushmatic) to integrate web push notifications into your website.
+This is a demo project showcasing how to use [Pushmatic](https://github.com/mhmdsalahsebai/pushmatic) to integrate web push notifications into your website.
 
 ## 🚀 What is Pushmatic?
 
