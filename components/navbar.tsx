@@ -1,7 +1,6 @@
 import {
   Navbar as HeroUINavbar,
   NavbarContent,
-  NavbarMenuToggle,
   NavbarBrand,
   NavbarItem,
 } from "@heroui/navbar";
@@ -41,7 +40,6 @@ export const Navbar = () => {
           <GithubIcon className="text-default-500" />
         </Link>
         <ThemeSwitch />
-        <NavbarMenuToggle />
       </NavbarContent>
     </HeroUINavbar>
   );
